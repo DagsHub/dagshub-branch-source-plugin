@@ -1,0 +1,5 @@
+<?jelly escape-by-default='true'?>
+<div>
+  Use DAGsHub repositories as sources for
+  <a href="https://www.jenkins.io/doc/book/pipeline/multibranch/">Jenkins Multibranch Workflow projects</a>.
+</div>

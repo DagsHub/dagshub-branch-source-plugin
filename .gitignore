@@ -1,0 +1,10 @@
+target
+/work*
+*.iml
+.idea/*
+!.idea/codeStyles/
+.classpath
+.project
+.settings
+bin
+.DS_Store
