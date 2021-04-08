@@ -105,7 +105,8 @@ public class DAGsHubSCMSource extends AbstractGitSCMSource {
     @Override
     @DataBoundSetter
     public void setTraits(List<SCMSourceTrait> traits) {
-        this.traits = Collections.unmodifiableList(new ArrayList<>(traits));
+        this.traits = traits == null ? Collections.emptyList() :
+            Collections.unmodifiableList(new ArrayList<>(traits));
     }
 
     @NonNull

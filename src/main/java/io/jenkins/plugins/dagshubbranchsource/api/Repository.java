@@ -33,7 +33,7 @@ public class Repository {
     private ZonedDateTime createdAt;
     private ZonedDateTime updatedAt;
     /*
-	Permissions   *Permission `json:"permissions,omitempty"`
+    Permissions   *Permission `json:"permissions,omitempty"`
      */
 
     public long getId() {

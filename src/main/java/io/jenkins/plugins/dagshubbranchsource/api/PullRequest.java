@@ -6,7 +6,6 @@ import com.fasterxml.jackson.databind.annotation.JsonNaming;
 import io.jenkins.plugins.dagshubbranchsource.git.PullRequestSCMHead;
 import io.jenkins.plugins.dagshubbranchsource.git.PullRequestSCMRevision;
 import java.time.ZonedDateTime;
-import java.util.Locale;
 import jenkins.plugins.git.GitBranchSCMHead;
 import jenkins.plugins.git.GitBranchSCMRevision;
 import jenkins.scm.api.SCMHeadOrigin;
@@ -24,7 +23,7 @@ public class PullRequest {
     private String body;
     /*
     Labels    []*Label   `json:"labels"`
-	Milestone *Milestone `json:"milestone"`
+    Milestone *Milestone `json:"milestone"`
      */
 
     private User assignee;
