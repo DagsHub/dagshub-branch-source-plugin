@@ -4,7 +4,7 @@
 
 [![Discord](https://img.shields.io/discord/698874030052212737)](https://discord.com/invite/9gU36Y6)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-![Build](https://github.com/dagshub/dagshub-branch-source-plugin/actions/workflows/build-and-upload-artifact.yml/badge.svg)
+[![CI](https://github.com/dagshub/dagshub-branch-source-plugin/actions/workflows/build-and-upload-artifact.yml/badge.svg)](https://github.com/DAGsHub/dagshub-branch-source-plugin/actions/workflows/build-and-upload-artifact.yml)
 <a href="https://twitter.com/TheRealDAGsHub" title="DAGsHub on Twitter"><img src="https://img.shields.io/twitter/follow/TheRealDAGsHub.svg?style=social"></a>
 
 # DAGsHub Branch Source Jenkins Plugin
