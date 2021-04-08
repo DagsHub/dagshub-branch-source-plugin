@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div align="center">
   <a href="https://dagshub.com"><img src="https://raw.githubusercontent.com/DAGsHub/client/master/dagshub_github.png" width=600 alt=""/></a><br><br>
 </div>
 
@@ -21,9 +21,10 @@ or pull request in your repo, if they have an existing
 As of now, this plugin is not yet listed in the official Jenkins plugin repository (we're working on it!).
 
 So, to install it right now, you can: 
-1. Go to the [latest release](https://github.com/dagshub/dagshub-branch-source-plugin/releases) 
+1. Go to the [latest release](https://github.com/dagshub/dagshub-branch-source-plugin/releases).
 1. Download the `dagshub-branch-source.hpi` file from the release assets.
-1. Go to your Jenkins' advanced plugin management screen: https://your-jenkins-instance/pluginManager/advanced 
+1. Go to your Jenkins' advanced plugin management screen:  
+   https://your-jenkins-instance/pluginManager/advanced 
 1. Choose the "Upload Plugin" option, upload the hpi file.
 
 ## Release notes
