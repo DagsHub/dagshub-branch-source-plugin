@@ -7,6 +7,11 @@
 [![CI](https://github.com/dagshub/dagshub-branch-source-plugin/actions/workflows/build-and-upload-artifact.yml/badge.svg)](https://github.com/DAGsHub/dagshub-branch-source-plugin/actions/workflows/build-and-upload-artifact.yml)
 <a href="https://twitter.com/TheRealDAGsHub" title="DAGsHub on Twitter"><img src="https://img.shields.io/twitter/follow/TheRealDAGsHub.svg?style=social"></a>
 
+# THIS PROJECT IS ARCHIVED!!!
+
+The project has been forked and officially adopted by the Jenkins Github organization, so please view it there:
+https://github.com/jenkinsci/dagshub-branch-source-plugin
+
 # DAGsHub Branch Source Jenkins Plugin
 
 Use <a href="https://dagshub.com">DAGsHub</a> repositories as sources for
